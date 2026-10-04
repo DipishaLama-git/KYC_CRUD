@@ -1,0 +1,32 @@
+export type Gender = 'Male' | 'Female' | 'Other';
+export declare class Kyc {
+    id: string;
+    fullName: string;
+    gender: Gender;
+    dobBs: string | null;
+    dobAd: string;
+    citizenshipNumber: string;
+    citizenshipIssuedDistrict: string | null;
+    citizenshipIssuedDate: string | null;
+    phoneNumber: string;
+    email: string | null;
+    permanentProvinceId: number;
+    permanentDistrictId: number;
+    permanentMunicipalityId: number;
+    permanentWardNo: number;
+    temporaryProvinceId: number | null;
+    temporaryDistrictId: number | null;
+    temporaryMunicipalityId: number | null;
+    temporaryWardNo: number | null;
+    fatherName: string | null;
+    motherName: string | null;
+    grandfatherName: string | null;
+    grandmotherName: string | null;
+    occupation: string | null;
+    panNumber: string | null;
+    imageUrl: string | null;
+    createdBy: string | null;
+    createdDate: Date;
+    lastUpdatedBy: string | null;
+    lastUpdatedDate: Date;
+}

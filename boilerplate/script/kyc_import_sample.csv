@@ -1,0 +1,4 @@
+full_name,gender,dob_bs,dob_ad,citizenship_number,citizenship_issued_district,citizenship_issued_date,phone_number,email,permanent_province_id,permanent_district_id,permanent_municipality_id,permanent_ward_no,temporary_province_id,temporary_district_id,temporary_municipality_id,temporary_ward_no,father_name,mother_name,grandfather_name,grandmother_name,occupation,pan_number
+Ram Bahadur Thapa,Male,2047-03-12,1990-06-25,12-34-56-78901,Bhojpur,2010-01-15,9801234567,ram.thapa@example.com,1,1,1,5,3,27,307,10,Hari Bahadur Thapa,Sita Thapa,Krishna Bahadur Thapa,Kamala Thapa,Business,ABCDE1234F
+Sita Kumari Sharma,Female,2050-08-02,1993-11-18,12-34-56-78902,Kathmandu,2012-05-20,9807654321,sita.sharma@example.com,3,27,307,12,,,,,Gopal Sharma,Radha Sharma,Bishnu Sharma,Laxmi Sharma,Teacher,BCDEF2345G
+Hari Prasad Koirala,Male,2045-01-25,1988-05-07,12-34-56-78903,Ilam,2008-09-10,9812345678,,1,3,25,3,,,,,Keshav Koirala,Manju Koirala,,,Farmer,
